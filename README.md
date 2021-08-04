@@ -1,7 +1,8 @@
 # Calculators
 
 These Python programs are simple calculator programs that could be used to calculate data.
-&nbsp;
+
+
 
 ## Speed Calculator
 This program uses the class Car to identify the make and year of car and also display its speed at 5 different intervals. 
